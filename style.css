@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(40, 30, 19); 
+    font-family: cursive;
+}
+#heading{
+    color: rgb(255, 174, 0);
+}
+.group1{
+    color: rgb(244, 52, 62);
+}
+#data{
+    display: block;
+}
